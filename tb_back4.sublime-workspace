@@ -1,0 +1,280 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"info5"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"font",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_info.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_info.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_grids.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_about.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_home.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_reset.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_home.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_text.txt",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_info_txt.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/pc_styles3.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/pc_styles2.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/pc_styles1.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/pc_reset_txt.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/pc_photo6.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/pc_photo5.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/pc_photo4.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/pc_photo3.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/pc_photo2.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/pc_photo1.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/pc_logo.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/pc_info_txt.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/pc_info_txt.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/pc_home_txt.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/pc_home_txt.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/pc_grids_txt.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/pc_about_txt.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/info8.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/info7.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/info6.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/info5.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/info3.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/info2.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/info1.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/fbicon.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/cac_champagne.woff",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/cac_champagne.ttf",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/pc_text.txt",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/twittericon.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/wa2302 - Hunter Business School - Slack.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/fbicon.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/cac_champagne.woff",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/twittericon.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/cac_champagne.ttf",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_styles3.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_styles2.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_styles1.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_reset_txt.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_photo6.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_photo5.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_photo4.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_photo3.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_photo2.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_photo1.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_logo.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_info_txt.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_home_txt.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_home_txt.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_grids_txt.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/info8.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/pc_about_txt.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/info6.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/info7.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/info5.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/info3.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/info2.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 3/html3_tutorial/info1.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH2/Practice2.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH2/html2_tutorial/tss_bike.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH2/tss_swim.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH2/html2_tutorial/tss_styles.css",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH2/html2_tutorial/tss_home.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH2/tss_run.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 1/Practice1.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 1/html1_tutorial (2)/ct_pages.txt",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 1/html1_tutorial (2)/ct_about.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 1/html1_tutorial (2)/ct_start.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 1/html1_tutorial (2)/ct_about.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 1/_ Add an element of the largest heading type that",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 1/html1_tutorial (2)/ct_locations.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 1/html1_tutorial (2)/ct_contact.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 1/html1_tutorial (2)/ct_menu.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 1/html1_tutorial (2)/ct_reviews.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 1/html1_tutorial (2)/ct_catering.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 1/html1_tutorial (2)/ct_locations_txt.html",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 1/html1_tutorial (2)/ct_locations.png",
+		"/C/Users/Roberta Chaiken/Documents/HUNTER BUSINESS SCHOOL WEB DESIGN/WA_110 HTML/WA_110 CH 1/html1_tutorial (2)/ct_contact.png"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tb_back4.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
